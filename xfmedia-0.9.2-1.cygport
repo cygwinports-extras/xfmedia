@@ -1,0 +1,6 @@
+inherit xfce4
+
+DESCRIPTION="Xfce4 media player"
+HOMEPAGE="http://spuriousinterrupt.org/projects/xfmedia"
+SRC_URI="http://spuriousinterrupt.org/files/xfmedia/${P}.tar.bz2"
+PATCH_URI="0.9.2-no-plugins.patch"
