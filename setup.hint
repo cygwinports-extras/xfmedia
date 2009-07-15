@@ -1,5 +1,5 @@
 category: Audio Gnome
-requires: gdk-pixbuf2 glib2 gtk2-x11 libdbus-glib_1_2 libdbus1_3 libexo03 libintl8 libX11_6 libXext6 libxfce4util libxfcegui4 libxine1 libXss1 libXtst6 pango startup-notification taglib
+requires: libdbus-glib_1_2 libdbus1_3 libexo0.3_0 libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libintl8 libpango1.0_0 libstartup-notification1_0 libtag_c0 libX11_6 libXext6 libxfce4util4 libxfcegui4_4 libxine1 libXss1 libXtst6
 sdesc: "Xfce4 media player"
 ldesc: "Xfmedia is a simple, easy-to-use media player based on the xine 
 engine. The GTK+ GUI focuses on playing and managing audio files, but, 
